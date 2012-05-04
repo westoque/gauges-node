@@ -10,6 +10,9 @@ deps:
 test: deps
 	@find test -name '*_test.coffee' | xargs -n 1 -t coffee
 
+jsdoc:
+	cd docs/jsdoc && app/run.js -a -t=templates/jsdoc ../../lib && cd ../../
+
 publish: generate-js
 	@test `which npm` || echo 'You need npm to do npm publish... makes sense?'
 	npm publish
