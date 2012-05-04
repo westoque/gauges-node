@@ -27,7 +27,8 @@ Usage
 TODO
 ----
 
-Add tests. I just did a quick convertion.
+* Add tests. I just did a quick convertion.
+* Add docs.
 
 Copyright
 ---------
