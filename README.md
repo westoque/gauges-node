@@ -24,6 +24,11 @@ Usage
   });
 ```
 
+Docs
+----
+
+You can find the docs [Gauges Docs]:http://westoque.github.com/gauges-node/symbols/Gauges.html
+
 TODO
 ----
 
