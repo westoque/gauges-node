@@ -4,6 +4,13 @@ Gaug.es Node
 Unofficial gaug.es node.js API library. Based on the official ruby gem.
 library.
 
+Install
+-------
+
+```sh
+  npm install gauges-node
+```
+
 Usage
 -----
 
